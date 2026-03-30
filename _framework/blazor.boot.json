@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CrashStackGamesWebsite",
   "resources": {
-    "hash": "sha256-UHjV1CKtOR9WDJGDVYtDASLqCx9CxsMul8Slhp7a8fc=",
+    "hash": "sha256-KK77KXmE8oPy8yRHbzJnKwX9qYfYM5+6kwpN5WT0xW4=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-A16ka545FHaB+QXjyJ4exXh7XpBAAIFnX8YkC4xAng8="
     },
@@ -35,7 +35,7 @@
       "System.Collections.Concurrent.wasm": "sha256-3rx8Mm33pbGdg69wCw40aAw2CHllqBSBeN/eCCWpCg8=",
       "System.Collections.wasm": "sha256-lBTQnmKyKlAsgjuxk9umnYihdFSopyl/s1EeiDiJ30o=",
       "System.ComponentModel.wasm": "sha256-F2qjYBXWxtewpm29FIk7CosIp5viFHegk54GkyQcEQ0=",
-      "System.Console.wasm": "sha256-inSFfD9Gfphn59Nxvqqkbw8BwCRwMswvyv+EifLNXJo=",
+      "System.Console.wasm": "sha256-qHQyJccmDLuze9bbCQB6P8FUd0fmw2eDuwJ42Nep4mg=",
       "System.Diagnostics.DiagnosticSource.wasm": "sha256-+A/9ukz9QPO798RtfpjT9Bxrl/Wdno3LKwjHldddqgU=",
       "System.Linq.wasm": "sha256-9HEgspQ0wyu9kFeDf8eZqDmBuHhFYxX+JTRsS7Idk0c=",
       "System.Memory.wasm": "sha256-TLAWSJHCPW3N+zTdWKuQP6jZrmK2z/i3RI8Ys+iwC/c=",
@@ -44,12 +44,12 @@
       "System.Net.Primitives.wasm": "sha256-dSBa23PLlzOUa3eHxDj1nzYQzf95XnmQ/VECEmmnMXw=",
       "System.Private.Uri.wasm": "sha256-hBkdTn99OtJIprbMu4QeuC8OCm/1a0QsM1fTAJQwCM0=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-+gNV5SNVka6pMY9R66DfWUg5Ig77f30KM3imF5fzPCE=",
-      "System.Runtime.wasm": "sha256-+CULOB4PoNqARkHPdwdGwWGeBqYIdcfCjzyxs7fWePA=",
+      "System.Runtime.wasm": "sha256-zgNDKmHLxg5wBjrkmSCRhZjPDhN3SOpuVsnZBXGlGHc=",
       "System.Text.Encodings.Web.wasm": "sha256-3U3esquJ7Aeu10CYOpbI1yppzI+hqmeLhyESUijMlSU=",
       "System.Text.Json.wasm": "sha256-NJwQZXkYlKAK0gKCNl4y3SC2H92He2SoS764lXXn3eI=",
       "System.Text.RegularExpressions.wasm": "sha256-vTjmo8W+mDOdlHRP0L2XPX6WOPBjjNP1eAT8UWYxM8I=",
-      "System.Private.CoreLib.wasm": "sha256-W7NkoD3h8jcORNWs8ga8+OSMwsGVjBisIbfxTcMCaak=",
-      "CrashStackGamesWebsite.wasm": "sha256-9R5pKzhuFwQw/saHpLvKsSTNIxmKM6dkL3TWNEZYggs="
+      "System.Private.CoreLib.wasm": "sha256-3d5CDk1s3dRPDgFk9wZOEYHhjFL7Q3X5zH7Mdd5lcJw=",
+      "CrashStackGamesWebsite.wasm": "sha256-mxjGe5A2zvPDsTCS/i797Gi4vkXql86ZLAnvgzCOITo="
     }
   },
   "cacheBootResources": true,
