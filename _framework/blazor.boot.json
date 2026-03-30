@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CrashStackGamesWebsite",
   "resources": {
-    "hash": "sha256-KK77KXmE8oPy8yRHbzJnKwX9qYfYM5+6kwpN5WT0xW4=",
+    "hash": "sha256-EwThk+eW7Yn+/Kr6Tb0txoE9oofI6DLbATKrmZa3ln8=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-A16ka545FHaB+QXjyJ4exXh7XpBAAIFnX8YkC4xAng8="
     },
@@ -40,16 +40,16 @@
       "System.Linq.wasm": "sha256-9HEgspQ0wyu9kFeDf8eZqDmBuHhFYxX+JTRsS7Idk0c=",
       "System.Memory.wasm": "sha256-TLAWSJHCPW3N+zTdWKuQP6jZrmK2z/i3RI8Ys+iwC/c=",
       "System.Net.Http.Json.wasm": "sha256-jyH3xp+bRNXlB2e4pu/KSaRB4HXDIfX4fDebcVfJcqE=",
-      "System.Net.Http.wasm": "sha256-+Pin/d8lMFYA5lJljLfceCMElh1s4nLDKX3nI0UT0Eg=",
+      "System.Net.Http.wasm": "sha256-NKmoFIIQQdpGiKrgrxVnMwbR3lm7dFUlkeKxVUcpb4g=",
       "System.Net.Primitives.wasm": "sha256-dSBa23PLlzOUa3eHxDj1nzYQzf95XnmQ/VECEmmnMXw=",
       "System.Private.Uri.wasm": "sha256-hBkdTn99OtJIprbMu4QeuC8OCm/1a0QsM1fTAJQwCM0=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-+gNV5SNVka6pMY9R66DfWUg5Ig77f30KM3imF5fzPCE=",
-      "System.Runtime.wasm": "sha256-zgNDKmHLxg5wBjrkmSCRhZjPDhN3SOpuVsnZBXGlGHc=",
+      "System.Runtime.wasm": "sha256-0G3MARCXSnp/79RdWhiyRNLWsgQURoLNAcMjEG+ON4Q=",
       "System.Text.Encodings.Web.wasm": "sha256-3U3esquJ7Aeu10CYOpbI1yppzI+hqmeLhyESUijMlSU=",
       "System.Text.Json.wasm": "sha256-NJwQZXkYlKAK0gKCNl4y3SC2H92He2SoS764lXXn3eI=",
       "System.Text.RegularExpressions.wasm": "sha256-vTjmo8W+mDOdlHRP0L2XPX6WOPBjjNP1eAT8UWYxM8I=",
-      "System.Private.CoreLib.wasm": "sha256-3d5CDk1s3dRPDgFk9wZOEYHhjFL7Q3X5zH7Mdd5lcJw=",
-      "CrashStackGamesWebsite.wasm": "sha256-mxjGe5A2zvPDsTCS/i797Gi4vkXql86ZLAnvgzCOITo="
+      "System.Private.CoreLib.wasm": "sha256-xGE+X8hHQ5RG2zTeYMCw+XqTUZt1wjoMbKcLXCFZidY=",
+      "CrashStackGamesWebsite.wasm": "sha256-dAwPLMaofXoWTCx8lQjnle2yVfnDNxNq25ljsSmn6WM="
     }
   },
   "cacheBootResources": true,
